@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647858978247",
+    "project_id": "poem-7017-project",
+    "storage_bucket": "poem-7017-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647858978247:android:48066629407da7e51e6de2",
+        "android_client_info": {
+          "package_name": "com.mincholover.app.poet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQ7pchDpBR4jKukhJToRIAU48slGKNgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
